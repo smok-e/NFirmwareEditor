@@ -4,7 +4,7 @@ Toolbox.Shared.SecondsString=Sekunden
 
 // NToolbox Window
 Toolbox.MainWindow.ArcticFoxConfigurationButton=ArcticFox konfigurieren
-Toolbox.MainWindow.MyEvicConfigurationButton=myEvic konfigurieren
+Toolbox.MainWindow.MyEvicConfigurationButton=myEvic konfigurieren\n(noch nicht aktiviert)
 Toolbox.MainWindow.DeviceMonitorButton=Geräte Monitor
 Toolbox.MainWindow.ScreenshooterButton=Bildschirmfotos
 Toolbox.MainWindow.FirmwareUpdaterButton=Firmware Updater
